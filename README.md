@@ -1,6 +1,6 @@
 My Portfolio
 
-#My Portolio
+# My Portolio
 
 
 - 👋 Hi, I’m @WilliamLievesley
