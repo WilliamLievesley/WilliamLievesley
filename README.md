@@ -5,7 +5,8 @@ With certifications such as ISC2 Certified in Cybersecurity (CC), and the Google
 
 Take a look around to explore my certifications, ongoing projects, and skills. I’m always open to new connections and opportunities to learn and grow. Thank you for visiting!
 
-#### Cybersecurity Certifications
+
+## Cybersecurity Certifications
 ---
 I have earned the following cybersecurity certifications, showcasing my commitment to developing skills in this field:
 
@@ -14,7 +15,7 @@ I have earned the following cybersecurity certifications, showcasing my commitme
   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/MNCOUYZ25SR8"> <img src="https://img.shields.io/badge/Google-Cybersecurity-blue?style=for-the-badge&logo=google" alt="Google Cybersecurity" /> </a>
 </p>
 
-#### Certifications In Progress
+## Certifications In Progress
 ***
 I am continuously enhancing my knowledge and technical expertise. Below are the certifications I am currently working towards:
 
