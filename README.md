@@ -1,8 +1,6 @@
 # Hello, I'm Will, and Welcome to My Cybersecurity Portfolio!
 I'm an IT professional with experience in IT training and second-line service desk support, and I’m currently expanding into cybersecurity to transition into a SOC Analyst or ICT Security Analyst role. This portfolio reflects my journey as I build the skills and certifications needed to pursue that path.
 
-With certifications such as ISC2 Certified in Cybersecurity (CC), and the Google Professional Cybersecurity Certificate, I’m focused on gaining the knowledge and hands-on experience necessary to protect organizations from evolving cyber threats.
-
 Take a look around to explore my certifications, ongoing projects, and skills. I’m always open to new connections and opportunities to learn and grow. Thank you for visiting!
 
 
