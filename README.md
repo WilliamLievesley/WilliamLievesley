@@ -1,7 +1,6 @@
 # Hello, I'm Will, and Welcome to My Cybersecurity Portfolio!
-<a href="https://github.com/your-username" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub Profile" style="width:50px; height:50px;">
-</a>
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg)](https://www.linkedin.com/in/your-username/)
+
 
 I'm an IT professional with experience in IT training and second-line service desk support, and I’m currently expanding into cybersecurity to transition into a SOC Analyst or ICT Security Analyst role. This portfolio reflects my journey as I build the skills and certifications needed to pursue that path.
 
