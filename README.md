@@ -1,7 +1,9 @@
 # Hello, I'm Will, and Welcome to My Cybersecurity Portfolio!
-Here you will find a collection of projects and certifications I have been working on to showcase my skills.
-Each project is designed to highlight different aspects of security I am proficient in and more will be added as I go along. 
-With expertise in technology I am eager to take on challenges and contribute to the field. 
+I'm an IT professional with experience in IT training and second-line service desk support, and I’m currently expanding my expertise into the field of cybersecurity. My goal is to transition into a SOC Analyst or ICT Security Analyst role, and this portfolio reflects my journey as I build the skills and certifications needed to pursue that path.
+
+With certifications such as CompTIA Security+, ISC2 Certified in Cybersecurity (CC), and the Google Professional Cybersecurity Certificate, I’m focused on gaining the knowledge and hands-on experience necessary to protect organizations from evolving cyber threats.
+
+Take a look around to explore my certifications, ongoing projects, and skills. I’m always open to new connections and opportunities to learn and grow. Thank you for visiting!
 
 ### Cybersecurity Certifications
 I have earned the following cybersecurity certifications, showcasing my commitment to developing skills in this field:
