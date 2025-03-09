@@ -1,7 +1,9 @@
 # Hello, I'm Will, and Welcome to My Cybersecurity Portfolio!
-I'm an IT professional with experience in IT training and second-line service desk support, and I’m currently expanding into cybersecurity to transition into a SOC Analyst or ICT Security Analyst role. This portfolio reflects my journey as I build the skills and certifications needed to pursue that path.
+<a href="https://github.com/your-username" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub Profile" style="width:50px; height:50px;">
+</a>
 
-Take a look around to explore my certifications, ongoing projects, and skills. I’m always open to new connections and opportunities to learn and grow. Thank you for visiting!
+I'm an IT professional with experience in IT training and second-line service desk support, and I’m currently expanding into cybersecurity to transition into a SOC Analyst or ICT Security Analyst role. This portfolio reflects my journey as I build the skills and certifications needed to pursue that path.
 
 
 ## Cybersecurity Certifications
