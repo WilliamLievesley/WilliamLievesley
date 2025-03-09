@@ -5,6 +5,8 @@
 
 I'm an IT professional with experience in IT training and second-line service desk support, and I’m currently expanding into cybersecurity to transition into a SOC Analyst or ICT Security Analyst role. This portfolio reflects my journey as I build the skills and certifications needed to pursue that path.
 
+- Professional Statement
+
 ## Key Projects
 
 Here you'll find 5 key projects that highlight my skills in **Log analysis and Threat Detection**, **Risk Management**, **Incident Response**, and **Automation**. These projects showcase both my technical expertise and problem-solving abilities.
