@@ -7,7 +7,6 @@ Take a look around to explore my certifications, ongoing projects, and skills. I
 
 
 ## Cybersecurity Certifications
----
 I have earned the following cybersecurity certifications, showcasing my commitment to developing skills in this field:
 
 <p align="left">
@@ -16,7 +15,6 @@ I have earned the following cybersecurity certifications, showcasing my commitme
 </p>
 
 ## Certifications In Progress
-***
 I am continuously enhancing my knowledge and technical expertise. Below are the certifications I am currently working towards:
 
 <p align="left"> <a href="https://www.comptia.org/certifications/security"> <img src="https://img.shields.io/badge/CompTIA-Security%2B%20(In%20Progress)-grey?style=for-the-badge&logo=comptia" alt="Security+ In Progress" /> </a> 
