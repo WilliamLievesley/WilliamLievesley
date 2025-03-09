@@ -33,5 +33,17 @@ I am continuously enhancing my knowledge and technical expertise. Below are the 
   <a href="https://learn.microsoft.com/en-us/certifications/exams/sc-200/"> <img src="https://img.shields.io/badge/Microsoft-SC--200%20(In%20Progress)-grey?style=for-the-badge&logo=microsoft" alt="SC-200 In Progress" /> </a>
 </p>
 
+## Tools Used
+
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-blue?style=flat&logo=google)
+![Markdown](https://img.shields.io/badge/Markdown-blue?style=flat&logo=markdown)
+![Tcpdump](https://img.shields.io/badge/Tcpdump-blue?style=flat&logo=tcpdump)
+![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=flat&logo=wireshark)
+![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux)
+![SQL](https://img.shields.io/badge/SQL-00758f?style=flat&logo=sql)
+![Splunk](https://img.shields.io/badge/Splunk-0072c6?style=flat&logo=splunk)
+![Suricata](https://img.shields.io/badge/Suricata-5c5c5c?style=flat&logo=suricata)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+
 
 
