@@ -6,4 +6,4 @@ With expertise in technology I am eager to take on challenges and contribute to 
 ### 🏅 My Cybersecurity Certifications  
 
 [![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-green?style=for-the-badge&logo=isc2)](https://www.isc2.org/)  
-[![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-blue?style=for-the-badge&logo=google)](https://www.credential.net/)  
+[![Google Professional Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-blue?style=for-the-badge&logo=google)](https://www.credential.net/)  
