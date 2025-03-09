@@ -5,9 +5,6 @@
 
 I'm an IT professional with experience in IT training and second-line service desk support, and I’m currently expanding into cybersecurity to transition into a SOC Analyst or ICT Security Analyst role. This portfolio reflects my journey as I build the skills and certifications needed to pursue that path.
 
-## Projects
-# My Cybersecurity Portfolio
-
 ## Key Projects
 
 ### 1. **Risk Register**
@@ -39,11 +36,6 @@ I'm an IT professional with experience in IT training and second-line service de
 - **Tools:** Python
 - **Summary:** Developed a Python script to automate the removal of specified IP addresses from an authorized IP address list, improving network security.
 - **[View Full Project](#)**
-
-## Contact Me
-
-Feel free to reach out on my [LinkedIn](https://www.linkedin.com/in/william-lievesley-29b517140/) or check out my [GitHub](https://github.com/yourusername).
-
 
 
 ## Cybersecurity Certifications
