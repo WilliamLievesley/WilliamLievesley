@@ -43,6 +43,8 @@ I am continuously enhancing my knowledge and technical expertise. Below are the 
 ![SQL](https://img.shields.io/badge/SQL-00758f?style=flat&logo=sql)
 ![Splunk](https://img.shields.io/badge/Splunk-0072c6?style=flat&logo=splunk)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![Suricata](https://img.shields.io/badge/Suricata-IDS%20Tool-blue)
+
 
 
 
