@@ -5,7 +5,7 @@
 
 I'm an IT professional with experience in IT training and second-line service desk support, and I’m currently expanding into cybersecurity to transition into a SOC Analyst or ICT Security Analyst role. This portfolio reflects my journey as I build the skills and certifications needed to pursue that path.
 
-- Professional Statement
+[Professional Statement](https://github.com/WilliamLievesley/Professional-Statement)
 
 ## Key Projects
 
