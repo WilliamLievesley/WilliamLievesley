@@ -1,4 +1,4 @@
-# Hello, I'm Will, and Welcome to My Cybersecurity Portfolio!
+# Hello, I'm Will and welcome to my Cybersecurity Portfolio!
 <a href="https://www.linkedin.com/in/william-lievesley-29b517140/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-william--lievesley-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge">
 </a>
