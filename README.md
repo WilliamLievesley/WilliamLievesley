@@ -1,11 +1,11 @@
 # Hello, I'm Will, and Welcome to My Cybersecurity Portfolio!
-I'm an IT professional with experience in IT training and second-line service desk support, and I’m currently expanding my expertise into the field of cybersecurity. My goal is to transition into a SOC Analyst or ICT Security Analyst role, and this portfolio reflects my journey as I build the skills and certifications needed to pursue that path.
+I'm an IT professional with experience in IT training and second-line service desk support, and I’m currently expanding into cybersecurity to transition into a SOC Analyst or ICT Security Analyst role. This portfolio reflects my journey as I build the skills and certifications needed to pursue that path.
 
-With certifications such as CompTIA Security+, ISC2 Certified in Cybersecurity (CC), and the Google Professional Cybersecurity Certificate, I’m focused on gaining the knowledge and hands-on experience necessary to protect organizations from evolving cyber threats.
+With certifications such as ISC2 Certified in Cybersecurity (CC), and the Google Professional Cybersecurity Certificate, I’m focused on gaining the knowledge and hands-on experience necessary to protect organizations from evolving cyber threats.
 
 Take a look around to explore my certifications, ongoing projects, and skills. I’m always open to new connections and opportunities to learn and grow. Thank you for visiting!
 
-### Cybersecurity Certifications
+#### Cybersecurity Certifications
 I have earned the following cybersecurity certifications, showcasing my commitment to developing skills in this field:
 
 <p align="left">
@@ -13,7 +13,7 @@ I have earned the following cybersecurity certifications, showcasing my commitme
   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/MNCOUYZ25SR8"> <img src="https://img.shields.io/badge/Google-Cybersecurity-blue?style=for-the-badge&logo=google" alt="Google Cybersecurity" /> </a>
 </p>
 
-### Certifications In Progress
+#### Certifications In Progress
 I am continuously enhancing my knowledge and technical expertise. Below are the certifications I am currently working towards:
 
 <p align="left"> <a href="https://www.comptia.org/certifications/security"> <img src="https://img.shields.io/badge/CompTIA-Security%2B%20(In%20Progress)-grey?style=for-the-badge&logo=comptia" alt="Security+ In Progress" /> </a> 
