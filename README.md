@@ -7,35 +7,19 @@ I'm an IT professional with experience in IT training and second-line service de
 
 ## Key Projects
 
-### 1. **Risk Register**
-- **Skills:** Risk Assessment
-- **Tools:** NIST Guidelines
-- **Summary:** Prioritized risks for a bank based on likelihood and severity using NIST guidelines.
-- **[View Full Project](#)**
+# My Cybersecurity Portfolio
 
-### 2. **Vulnerability Assessment Report**
-- **Skills:** Risk Assessment
-- **Tools:** NIST SP 800-30 Rev. 1
-- **Summary:** Identified vulnerabilities and made recommendations for improvement based on industry best practices.
-- **[View Full Project](#)**
+Welcome to my portfolio! Here are 5 key projects I have worked on, demonstrating my skills in cybersecurity, risk management, incident response, and automation.
 
-### 3. **Cybersecurity Incident Report - TCP Logs**
-- **Skills:** Threat Detection, Network Analysis
-- **Tools:** Wireshark, TCPDUMP
-- **Summary:** Identified a DoS attack from TCP logs, providing a comprehensive analysis and recommendations for mitigation.
-- **[View Full Project](#)**
+---
 
-### 4. **Internal Security Audit**
-- **Skills:** Risk Assessment, Compliance
-- **Tools:** PCI CSS, GDPR, SOC 1 and 2
-- **Summary:** Conducted an internal security audit and provided compliance recommendations for a company to meet security standards.
-- **[View Full Project](#)**
+## Key Projects
 
-### 5. **Algorithm for File Updates in Python**
-- **Skills:** Python Programming, Automation
-- **Tools:** Python
-- **Summary:** Developed a Python script to automate the removal of specified IP addresses from an authorized IP address list, improving network security.
-- **[View Full Project](#)**
+[**Risk Register**](https://github.com/yourusername/risk-register) | [**Vulnerability Assessment Report**](https://github.com/yourusername/vulnerability-assessment-report) | [**Cybersecurity Incident Report - TCP Logs**](https://github.com/yourusername/cybersecurity-incident-tcp-logs)  
+[**Internal Security Audit**](https://github.com/yourusername/internal-security-audit) | [**Algorithm for File Updates in Python**](https://github.com/yourusername/algorithm-file-updates-python)
+
+---
+
 
 
 ## Cybersecurity Certifications
