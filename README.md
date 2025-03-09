@@ -7,10 +7,9 @@ I'm an IT professional with experience in IT training and second-line service de
 
 ## Key Projects
 
-# My Cybersecurity Portfolio
+Here you'll find 5 key projects that highlight my skills in **cybersecurity**, **risk management**, **incident response**, and **automation**. These projects represent a mix of real-world challenges I've worked on, showcasing both my technical expertise and problem-solving abilities.
 
-Welcome to my portfolio! Here are 5 key projects I have worked on, demonstrating my skills in cybersecurity, risk management, incident response, and automation.
-For the full list please see [My-Cyber-Security-Projects](https://github.com/WilliamLievesley/My-Cyber-Security-Projects)
+For a full list of my projects, please check out my [**My Cyber-Security-Projects**](https://github.com/yourusername/My-Cyber-Security-Projects).
 
 [**Risk Register**](https://github.com/yourusername/risk-register) | [**Vulnerability Assessment Report**](https://github.com/yourusername/vulnerability-assessment-report) | [**Cybersecurity Incident Report - TCP Logs**](https://github.com/yourusername/cybersecurity-incident-tcp-logs)  
 [**Internal Security Audit**](https://github.com/yourusername/internal-security-audit) | [**Algorithm for File Updates in Python**](https://github.com/yourusername/algorithm-file-updates-python)
