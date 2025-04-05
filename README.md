@@ -26,7 +26,7 @@ I have earned the following cybersecurity certifications, showcasing my commitme
 <p align="left">
   <a href="https://acrobat.adobe.com/id/urn:aaid:sc:EU:289a5ca8-f7e7-4d80-8d79-414cb9f49559"> <img src="https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-blue?style=for-the-badge&logo=isc2" alt="ISC2 CC" /> </a> 
   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/MNCOUYZ25SR8"> <img src="https://img.shields.io/badge/Google-Cybersecurity-blue?style=for-the-badge&logo=google" alt="Google Cybersecurity" /> </a>
-  <a href="https://www.comptia.org/certifications/security"> 
+  <a href="https://www.credly.com/badges/348d9c65-6f8d-4bc8-bfbd-85720494ac7c/linked_in_profile"> 
     <img src="https://img.shields.io/badge/CompTIA-Security%2B-blue?style=for-the-badge&logo=comptia" alt="Security+" /> 
   </a> 
 </p>
