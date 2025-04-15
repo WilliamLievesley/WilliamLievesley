@@ -36,7 +36,9 @@ I have earned the following cybersecurity certifications, showcasing my commitme
 ## Certifications In Progress
 I am continuously enhancing my knowledge and technical expertise. Below are the certifications I am currently working towards:
 
-<p align="left"> <a href="https://learn.microsoft.com/en-us/certifications/exams/sc-200/"> <img src="https://img.shields.io/badge/Microsoft-SC--200%20(In%20Progress)-grey?style=for-the-badge&logo=microsoft" alt="SC-200 In Progress" /> </a>
+<p align="left"> <a href="https://learn.microsoft.com/en-us/certifications/exams/sc-300/">
+  <img src="https://img.shields.io/badge/Microsoft-SC--300%20(In%20Progress)-blue?style=for-the-badge&logo=microsoft" alt="SC-300 In Progress" /> </a>
+
   <a href="https://learn.microsoft.com/en-us/certifications/azure-fundamentals/"> <img src="https://img.shields.io/badge/Microsoft-AZ--900%20(In%20Progress)-grey?style=for-the-badge&logo=microsoft" alt="AZ-900 In Progress" />
 </a>
 </p>
