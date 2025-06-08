@@ -29,6 +29,9 @@ I have earned the following cybersecurity certifications, showcasing my commitme
   <a href="https://www.credly.com/badges/348d9c65-6f8d-4bc8-bfbd-85720494ac7c/linked_in_profile"> 
     <img src="https://img.shields.io/badge/CompTIA-Security%2B-blue?style=for-the-badge&logo=comptia" alt="Security+" /> 
   </a> 
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/WilliamLievesley-7223/B4B32FDC2272101E?sharingId=48ABFB1D29B5789B">
+  <img src="https://img.shields.io/badge/Microsoft-AZ--900-blue?style=for-the-badge&logo=microsoft" alt="AZ-900" />
+</a>
 </p>
 
 
