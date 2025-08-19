@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-william--lievesley-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge">
 </a>
 
-I'm an IT professional with experience in IT training and second-line service desk support, and I’m currently expanding into cybersecurity to transition into a SOC Analyst or ICT Security Analyst role. This portfolio reflects my journey as I build the skills and certifications needed to pursue that path.
+I’m an IT professional with experience in IT training and second-line service desk support. I’m expanding my skills in cloud operations and cybersecurity, supported by certifications in CompTIA Security+ and Microsoft AZ-900. This portfolio reflects my journey into areas such as cloud monitoring, automation, and security operations, as I work toward a career in Cloud Operations or Security Engineering.
 
 [Professional Statement](https://github.com/WilliamLievesley/Professional-Statement)
 
