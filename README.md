@@ -9,7 +9,7 @@ I’m an IT professional with experience in IT training and second-line service 
 
 ## Key Projects
 
-Here you'll find 5 key projects that highlight my skills in ---- These projects showcase both my technical expertise and problem-solving abilities.
+Here you'll find key projects that highlight my skills in different fields.
 
 For a full list of my projects, please check out my [**My Cyber-Security-Projects**](https://github.com/WilliamLievesley/My-Cyber-Security-Projects) / [**My Cloud Projects**](https://github.com/WilliamLievesley/Cloud-Projects) 
 
