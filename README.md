@@ -1,6 +1,6 @@
 # Hello, I'm Will 👋
 
-Welcome to my Cloud, Identity & Cybersecurity Portfolio.
+## Welcome to my Cloud, Identity & Cybersecurity Portfolio.
 
 
 <a href="https://www.linkedin.com/in/william-lievesley-29b517140/" target="_blank">
@@ -9,8 +9,7 @@ Welcome to my Cloud, Identity & Cybersecurity Portfolio.
 
 I’m an IT professional with experience supporting enterprise healthcare environments across identity and access management (IAM), onboarding/offboarding, authentication security and operational IT support. My background includes second-line support, Microsoft 365 administration, RBAC provisioning and secure access operations within high-availability environments.
 
-This portfolio documents my hands-on projects across Microsoft Azure, Active Directory, Microsoft Entra ID, hybrid identity, cloud operations and security administration as I continue developing towards Cloud Operations, IAM and Security Engineering roles.
-
+This portfolio showcases hands-on projects across Microsoft Azure, Active Directory, Microsoft Entra ID, hybrid identity, cloud operations and security administration as I continue developing towards Cloud Operations, IAM and Security Engineering roles.
 <!-- [Professional Statement](https://github.com/WilliamLievesley/Professional-Statement) -->
 
 
