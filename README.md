@@ -1,6 +1,5 @@
 # Hello, I'm Will 👋
-
-## Welcome to my Cloud, Identity & Cybersecurity Portfolio.
+Welcome to my Cloud, Identity & Cybersecurity Portfolio.
 
 
 <a href="https://www.linkedin.com/in/william-lievesley-29b517140/" target="_blank">
