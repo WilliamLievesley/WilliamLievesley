@@ -1,4 +1,6 @@
-# Hello, I'm Will and welcome to my Cybersecurity Portfolio!
+# Hello, I'm Will 👋
+
+Welcome to my Cloud, Identity & Cybersecurity Portfolio.
 <a href="https://www.linkedin.com/in/william-lievesley-29b517140/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-william--lievesley-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge">
 </a>
@@ -67,22 +69,14 @@ For a full list of my projects, please check out my [**My Cyber-Security-Project
 ![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Microsoft Entra Connect](https://img.shields.io/badge/Microsoft_Entra_Connect-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=flat&logo=windows&logoColor=white)
-
-
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Tcpdump](https://img.shields.io/badge/Tcpdump-005571?style=flat)
 ![Suricata](https://img.shields.io/badge/Suricata-IDS_Tool-EF3B2D?style=flat)
-
-
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoftoffice&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat&logo=googleworkspace&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
