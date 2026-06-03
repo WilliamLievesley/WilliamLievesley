@@ -47,6 +47,43 @@ I am continuously enhancing my knowledge and technical expertise. Below are the 
 
 </p>
 
+
+---
+
+
+## Technologies & Tools
+
+### Identity & Cloud
+
+* Microsoft Azure
+* Microsoft Entra ID
+* Microsoft Entra Connect
+* Active Directory Domain Services (AD DS)
+
+### Security & Monitoring
+
+* Splunk
+* Wireshark
+* Tcpdump
+* Suricata
+
+### Operating Systems
+
+* Windows Server
+* Linux
+
+### Scripting & Data
+
+* Python
+* SQL
+
+### Productivity & Collaboration
+
+* Microsoft 365
+* Google Workspace
+* Markdown
+
+
 ## Tools Used
 
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-blue?style=flat&logo=google)
