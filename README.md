@@ -18,14 +18,6 @@ Below are hands-on projects demonstrating my experience across identity and acce
 | ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
 | [Enterprise Hybrid Identity Lab](https://github.com/WilliamLievesley/Cloud-Projects/tree/main/project-list/hybrid-identity-lab) | Hybrid Identity, RBAC, Active Directory Administration, Group Policy, Identity Synchronization, IAM | Active Directory, Microsoft Entra ID, Entra Connect, Azure RBAC, Windows Server 2022 |
 
-The project included:
-
-* Azure RBAC implementation
-* Active Directory deployment
-* Group Policy configuration
-* Microsoft Entra Connect synchronization
-* Hybrid identity integration between on-premises Active Directory and Microsoft Entra ID
-
 ### Current Development
 
 I am currently developing a PowerShell-based IAM automation project focused on automating Active Directory group membership and user provisioning workflows using CSV-driven administration and operational scripting.
@@ -72,27 +64,27 @@ I am continuously enhancing my knowledge and technical expertise. Below are the 
 
 ## Technologies & Tools
 
-### Identity & Cloud
+
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Microsoft Entra Connect](https://img.shields.io/badge/Microsoft_Entra_Connect-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=flat&logo=windows&logoColor=white)
 
-### Security & Monitoring
+
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Tcpdump](https://img.shields.io/badge/Tcpdump-005571?style=flat)
 ![Suricata](https://img.shields.io/badge/Suricata-IDS_Tool-EF3B2D?style=flat)
 
-### Operating Systems
+
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-### Scripting & Data
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-### Productivity & Collaboration
+
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoftoffice&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat&logo=googleworkspace&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
