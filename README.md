@@ -1,4 +1,6 @@
-# Hello, I'm Will and welcome to my Cloud, Identity & Cybersecurity Portfolio. 
+# Hello, I'm Will 👋
+
+Welcome to my Cloud, Identity & Cybersecurity Portfolio.
 
 
 <a href="https://www.linkedin.com/in/william-lievesley-29b517140/" target="_blank">
@@ -35,7 +37,7 @@ For a full list of my projects, please check out my [**My Cyber-Security-Project
 
 
 
-## Cybersecurity Certifications
+## Certifications
 
 <p align="left">
   <a href="https://acrobat.adobe.com/id/urn:aaid:sc:EU:289a5ca8-f7e7-4d80-8d79-414cb9f49559"> <img src="https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-blue?style=for-the-badge&logo=isc2" alt="ISC2 CC" /> </a> 
@@ -80,7 +82,7 @@ For a full list of my projects, please check out my [**My Cyber-Security-Project
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoftoffice&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat&logo=googleworkspace&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![Suricata](https://img.shields.io/badge/Suricata-IDS%20Tool-blue)
+
 
 
 
