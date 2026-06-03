@@ -11,8 +11,6 @@ This portfolio documents my hands-on projects across Microsoft Azure, Active Dir
 
 ## Key Projects
 
-Here you'll find key projects that highlight my skills in different fields.
-
 For a full list of my projects, please check out my [**My Cyber-Security-Projects**](https://github.com/WilliamLievesley/My-Cyber-Security-Projects) / [**My Cloud Projects**](https://github.com/WilliamLievesley/Cloud-Projects) 
 
 
