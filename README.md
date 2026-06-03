@@ -9,7 +9,7 @@ I’m an IT professional with experience supporting enterprise healthcare enviro
 
 This portfolio documents my hands-on projects across Microsoft Azure, Active Directory, Microsoft Entra ID, hybrid identity, cloud operations and security administration as I continue developing towards Cloud Operations, IAM and Security Engineering roles.
 
-[Professional Statement](https://github.com/WilliamLievesley/Professional-Statement)
+<!-- [Professional Statement](https://github.com/WilliamLievesley/Professional-Statement) -->
 
 
 ## Key Projects
