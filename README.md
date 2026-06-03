@@ -34,7 +34,6 @@ For a full list of my projects, please check out my [**My Cyber-Security-Project
 
 
 ## Cybersecurity Certifications
-I have earned the following cybersecurity certifications, showcasing my commitment to developing skills in this field:
 
 <p align="left">
   <a href="https://acrobat.adobe.com/id/urn:aaid:sc:EU:289a5ca8-f7e7-4d80-8d79-414cb9f49559"> <img src="https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-blue?style=for-the-badge&logo=isc2" alt="ISC2 CC" /> </a> 
@@ -50,7 +49,6 @@ I have earned the following cybersecurity certifications, showcasing my commitme
 
 
 ## Certifications In Progress
-I am continuously enhancing my knowledge and technical expertise. Below are the certifications I am currently working towards:
 
 <p align="left"> <a href="https://learn.microsoft.com/en-us/certifications/exams/sc-300/">
   <img src="https://img.shields.io/badge/Microsoft-SC--300%20(In%20Progress)-grey?style=for-the-badge&logo=microsoft" alt="SC-300 In Progress" />
