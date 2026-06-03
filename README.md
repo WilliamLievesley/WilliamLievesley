@@ -3,7 +3,9 @@
   <img src="https://img.shields.io/badge/LinkedIn-william--lievesley-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge">
 </a>
 
-I’m an IT professional with experience in IT training and second-line service desk support. I’m expanding my skills in cloud operations and cybersecurity, supported by certifications in CompTIA Security+ and Microsoft AZ-900. This portfolio reflects my journey into areas such as cloud monitoring, automation, and security operations, as I work toward a career in Cloud Operations or Security Engineering.
+I’m an IT professional with experience supporting enterprise healthcare environments across identity and access management (IAM), onboarding/offboarding, authentication security and operational IT support. My background includes second-line support, Microsoft 365 administration, RBAC provisioning and secure access operations within high-availability environments.
+
+This portfolio documents my hands-on projects across Microsoft Azure, Active Directory, Microsoft Entra ID, hybrid identity, cloud operations and security administration as I continue developing towards Cloud Operations, IAM and Security Engineering roles.
 
 [Professional Statement](https://github.com/WilliamLievesley/Professional-Statement)
 
