@@ -9,7 +9,26 @@ This portfolio documents my hands-on projects across Microsoft Azure, Active Dir
 
 [Professional Statement](https://github.com/WilliamLievesley/Professional-Statement)
 
+
 ## Key Projects
+
+Below are hands-on projects demonstrating my experience across identity and access management (IAM), hybrid identity, operational IT and security administration. These projects focus on practical implementation, troubleshooting and understanding how modern enterprise environments manage authentication, authorization and centralized identity systems.
+
+| Project                                                                                                                         | Skills Demonstrated                                                                                 | Technologies                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| [Enterprise Hybrid Identity Lab](https://github.com/WilliamLievesley/Cloud-Projects/tree/main/project-list/hybrid-identity-lab) | Hybrid Identity, RBAC, Active Directory Administration, Group Policy, Identity Synchronization, IAM | Active Directory, Microsoft Entra ID, Entra Connect, Azure RBAC, Windows Server 2022 |
+
+The project included:
+
+* Azure RBAC implementation
+* Active Directory deployment
+* Group Policy configuration
+* Microsoft Entra Connect synchronization
+* Hybrid identity integration between on-premises Active Directory and Microsoft Entra ID
+
+### Current Development
+
+I am currently developing a PowerShell-based IAM automation project focused on automating Active Directory group membership and user provisioning workflows using CSV-driven administration and operational scripting.
 
 For a full list of my projects, please check out my [**My Cyber-Security-Projects**](https://github.com/WilliamLievesley/My-Cyber-Security-Projects) / [**My Cloud Projects**](https://github.com/WilliamLievesley/Cloud-Projects) 
 
