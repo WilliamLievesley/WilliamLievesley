@@ -37,26 +37,16 @@ For a full list of my projects, please check out my [**My Cyber-Security-Project
 
 ## Certifications
 
-<p align="left">
-  <a href="https://acrobat.adobe.com/id/urn:aaid:sc:EU:289a5ca8-f7e7-4d80-8d79-414cb9f49559"> <img src="https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-blue?style=for-the-badge&logo=isc2" alt="ISC2 CC" /> </a> 
-  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/MNCOUYZ25SR8"> <img src="https://img.shields.io/badge/Google-Cybersecurity-blue?style=for-the-badge&logo=google" alt="Google Cybersecurity" /> </a>
-  <a href="https://www.credly.com/badges/348d9c65-6f8d-4bc8-bfbd-85720494ac7c/linked_in_profile"> 
-    <img src="https://img.shields.io/badge/CompTIA-Security%2B-blue?style=for-the-badge&logo=comptia" alt="Security+" /> 
-  </a> 
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/WilliamLievesley-7223/B4B32FDC2272101E?sharingId=48ABFB1D29B5789B">
-  <img src="https://img.shields.io/badge/Microsoft-AZ--900-blue?style=for-the-badge&logo=microsoft" alt="AZ-900" />
-</a>
+<img src="https://img.shields.io/badge/CompTIA-Security%2B-blue?style=for-the-badge&logo=comptia" alt="Security+" />
+<img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoft" alt="AZ-900" />
+<img src="https://img.shields.io/badge/Microsoft-SC--300-0078D4?style=for-the-badge&logo=microsoft" alt="SC-300" />
 </p>
 
 
 
-## Certifications In Progress
+<!--## Certifications In Progress-->
 
-<p align="left"> <a href="https://learn.microsoft.com/en-us/certifications/exams/sc-300/">
-  <img src="https://img.shields.io/badge/Microsoft-SC--300%20(In%20Progress)-grey?style=for-the-badge&logo=microsoft" alt="SC-300 In Progress" />
-</a>
 
-</p>
 
 
 ---
@@ -64,22 +54,21 @@ For a full list of my projects, please check out my [**My Cyber-Security-Project
 
 ## Technologies & Tools
 
-
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Microsoft Entra Connect](https://img.shields.io/badge/Microsoft_Entra_Connect-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Identity & Access Management](https://img.shields.io/badge/Identity_%26_Access_Management-IAM-5C2D91?style=flat&logo=microsoft&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=flat&logo=windows&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoft&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=flat&logo=windows11&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Tcpdump](https://img.shields.io/badge/Tcpdump-005571?style=flat)
-![Suricata](https://img.shields.io/badge/Suricata-IDS_Tool-EF3B2D?style=flat)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoftoffice&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat&logo=googleworkspace&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
 
 
