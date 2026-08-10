@@ -37,7 +37,7 @@ For a full list of my projects, please check out my [**My Cyber-Security-Project
 
 ## Certifications
 
-<p align="center">
+<p align="left-align">
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-E2231A?style=for-the-badge&logo=comptia&logoColor=white" alt="Security+" /> <img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="AZ-900" /> <img src="https://img.shields.io/badge/Microsoft-SC--300-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="SC-300" />
 </p>
 
